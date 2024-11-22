@@ -1,4 +1,4 @@
-# Secret Santa
+# SimpleClosure Secret Santa
 
 Check it live on [simpleclosure.github.io/](http://simpleclosure.github.io/).
 
